@@ -156,6 +156,12 @@ streamlit run app.py
 
 6. You can repeat step 1
 
+## Contributors:
+
+1. Tran Ngoc Anh Thu
+2. Nguyen Dang Huynh Chau
+3. Ho Le Minh Thach
+
 ## Repository Structure
 
 ```
